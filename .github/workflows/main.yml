@@ -122,3 +122,4 @@ jobs:
               }
               else {
                   Write-Host "[$(Get-Date)] Waiting for RDP profile to be created...
+                  }
